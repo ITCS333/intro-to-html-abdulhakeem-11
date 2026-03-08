@@ -1,23 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-     <head>
-    <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>About Abdulhakeem Alsulaiman </title> </head>
+  <head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Abdulhakeem Alsuloeman</title>
+  
+  </head>
   <body>
 
-    <h1>Abdulhakeem Alsulaiman</h1> <hr> <h2>My Introduction</h2> <p>I am a computer science student passionate about web development and technology. I enjoy learning how to build interactive and accessible websites.</p> 
+    <h1>Abdulhakeem Alsuloeman</h1>
+
+    <hr>
+
+    <h2>My Introduction</h2>
+
+    <p>I am a computer science student passionate about web development and technology.I enjoy learning how to build interactive and accessible websites.</p>
+
     <h2>My Hobbies</h2>
 
     <ul>
-        <li>Coding and software development</li>
+        <li>Programming and solving logic puzzles</li>
         <li>Reading</li>
-        <li>Playing Football</li>
+        <li>Playing football</li>
     </ul>
 
     <h2>Favorite Quote</h2>
 
-    <blockquote> <p>"The only way to do great work is to love what you do."</p>
-        <cite>Steve Jobs</cite> </blockquote>
+    <blockquote>
+        <p>"The only way to do great work is to love what you do."</p>
+        <cite>Steve Jobs</cite>
+    </blockquote>
 
     <h2>Find Me Online</h2>
 
