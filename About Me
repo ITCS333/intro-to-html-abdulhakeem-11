@@ -16,14 +16,14 @@
 
     <h2>My Introduction</h2>
 
-    <p>I am a computer science student passionate about web development and technology. I enjoy learning how to build interactive and accessible websites.</p>
+    <p>I am a computer science student passionate about web development and technology. I enjoy learning how to build interactive and accessible websites according to the standards learned in Chapter 3.</p>
 
     <h2>My Hobbies</h2>
 
     <ul>
         <li>Programming and solving logic puzzles</li>
-        <li>Reading books and articles</li>
-        <li>Playing football and exercising</li>
+        <li>Reading technical articles</li>
+        <li>Playing football</li>
     </ul>
 
     <h2>Favorite Quote</h2>
@@ -35,10 +35,10 @@
 
     <h2>Find Me Online</h2>
 
-    <a href="https://google.com/" target="_blank">Link to google</a>
+    <a href="https://thmanyah.com/" target="_blank">Link to Thamanyah</a>
 
     <br><br>
-    <img src="https://image2url.com/r2/default/images/1772979804663-de1b4cc8-520a-4d25-a6a5-eb4c599e0b5f.jpg" alt="Description of my favorite hobby">
+    <img src="https://image2url.com/r2/default/images/1772979804663-de1b4cc8-520a-4d25-a6a5-eb4c599e0b5f.jpg" alt="A professional portrait or favorite activity image">
 
   </body>
 </html>
